@@ -1,5 +1,5 @@
 # Global-Daily-Journal
-Scrap news from The New Yourk Times.
+Scrap news from The New York Times.
 
 Prepare data for further exploration, Cleaning Data using Python.
 
