@@ -1,10 +1,2 @@
 # Global-Daily-Journal
-Scrap news from The New York Times.
-
-Prepare data for further exploration, Cleaning Data using Python.
-
-Extract Content and Category from Scraped news.
-
-Apply Feature Engineering on Content.
-
-Train our model and Predict Category of news using Support Vector Machine.
+It was a news app, my role was to scrap news from the web, clean data then applied Natural Language Processing "nltk, word_tokenize, pos_tags, & identify named entities" to extract the Location of the news, Feature Engineering, applied Statistical analysis more specifically Classification model using Support Vector Machine to predict qualitative variable that is the category of which our news belongs to, finally save the data in a JSON file ready to be pushed into NoSQL Database.
